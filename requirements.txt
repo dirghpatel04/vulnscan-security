@@ -35,7 +35,6 @@ PyMsgBox==1.0.9
 pynput==1.7.5
 pyOpenSSL==21.0.0
 pyperclip==1.8.2
-pypiwin32==223
 PyRect==0.1.4
 PyScreeze==0.1.28
 pyserial==3.5
